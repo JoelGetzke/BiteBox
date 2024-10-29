@@ -1,0 +1,14 @@
+html, body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.center-title {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
