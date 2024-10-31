@@ -1,6 +1,10 @@
 html, body {
     font-family: Arial, sans-serif;
     text-align: center;
+    background-color: #afd4be90;
+    height: 100%;
+    margin: 0;
+   
 }
 
 .center-title {
@@ -11,4 +15,21 @@ html, body {
     align-items: center;
     font-family: Arial, sans-serif;
     text-align: center;
+}
+.parent-search {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    
+}
+
+.search-flex {
+  width: 50%;
+  height: 100%;
+    margin: 0 auto;
+}
+
+.form-control {
+    margin-bottom: 10px;
 }
